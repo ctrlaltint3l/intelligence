@@ -1,6 +1,6 @@
 # APT28 / FancyBear Phishing Framework
 
-This directory contains a copy of the phishing and C2 framework from the exposed operation box (203.161.50.145:8889). It is for research and documentation only.
+This directory contains a copy of the phishing and C2 framework from the exposed operation box (203.161.50[.]145:8889). It is for research and documentation only.
 
 ---
 
