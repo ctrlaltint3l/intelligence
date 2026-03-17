@@ -169,3 +169,4 @@ phishing_framework/
 | `/<path:filename>` | GET | Serve any other file from current directory. |
 
 ---
+
